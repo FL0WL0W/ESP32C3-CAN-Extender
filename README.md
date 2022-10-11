@@ -1,4 +1,4 @@
-# ESP32C3CAN-Module
+# ESP32C3 CAN Extender
 
 This module uses an ESP32C3 with WiFi and BLE. 
 It has 3 configurable outputs (5V push pull, Open Drain, 12V pullup), 4 analog or digital inputs, CAN transceiver, 

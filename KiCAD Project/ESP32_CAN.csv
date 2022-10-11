@@ -1,0 +1,113 @@
+Source:,C:\Users\johnsond\Documents\KiCad\ESP32_CAN\ESP32_CAN\ESP32_CAN.kicad_sch,,,,,,,
+Date:,9/16/2022 11:53,,,,,,,
+Tool:,Eeschema (6.0.2),,,,,,,
+Generator:,C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,
+Component Count:,72,,,,,,,
+,,,,,,,,
+Individual Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,,
+,,C1,100μ,Device:C_Polarized_US,Capacitor_SMD:CP_Elec_10x10.5,~,,
+,,C2,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C3,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C4,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C5,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C6,1000μ,Device:C_Polarized_US,Capacitor_SMD:CP_Elec_10x10.5,~,,
+,,C7,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C8,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C9,10μ,Device:C_Polarized_US,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C10,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C11,0.1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C12,1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C13,100μ,Device:C_Polarized_US,Capacitor_SMD:CP_Elec_10x10.5,~,,
+,,C14,1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C15,0.1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C16,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C17,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C18,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,C19,10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,
+,,D1,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,~,,
+,,D2,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,~,,
+,,D3,51V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D4,51V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D5,51V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D6,51V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D7,3.3V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D8,3.3V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D9,3.3V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D10,3.3V,Device:D_Zener,Diode_SMD:D_SOD-123,~,,
+,,D11,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,~,,
+,,J1,Conn_01x18_Male,Connector:Conn_01x18_Male,MX23A:MX23A18NF1,~,,
+,,J2,USB_C_Receptacle_USB2.0,Connector:USB_C_Receptacle_USB2.0,USBC:USB_TYPE_C_DS_5,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,
+,,L1,100μ,Device:L,Inductor_SMD:L_12x12mm_H4.5mm,~,,
+,,Q1,DNI,Transistor_FET_cont:BSS84AKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS84AKW.pdf,,
+,,Q2,BSS138BKW,Transistor_FET_cont:BSS138BKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf,,
+,,Q3,DNI,Transistor_FET_cont:BSS84AKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS84AKW.pdf,,
+,,Q4,BSS138BKW,Transistor_FET_cont:BSS138BKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf,,
+,,Q5,BSS138BKW,Transistor_FET_cont:BSS138BKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf,,
+,,Q6,DNI,Transistor_FET_cont:BSS84AKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS84AKW.pdf,,
+,,Q7,BSS138BKW,Transistor_FET_cont:BSS138BKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf,,
+,,R1,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R2,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R3,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R4,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R5,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R6,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R7,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R8,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R9,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R10,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R11,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R12,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R13,4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R14,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R15,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R16,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R17,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R18,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R19,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R20,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R21,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R22,10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R23,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R24,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R25,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,R26,DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,
+,,RV1,Varistor,Device:Varistor,Varistor:RV_Disc_D15.5mm_W3.9mm_P7.5mm,~,,
+,,U1,ATA6561-GAQW-N,Microchip:ATA6561-GAQW-N,Microchip:ATA6561-GAQW-N,,,
+,,U2,LM2576S-5,Regulator_Switching:LM2576S-5,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2576.pdf,,
+,,U3,AMS1117-3.3,Regulator_Linear:AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,,
+,,U4,BD5230G-TR,TI:TPS3840DL18DBVR,TI:TPS3840DL18DBVR,,,
+,,U5,ESP32-C3-MINI-1,Espressif:ESP32-C3-MINI-1,Espressif:ESP32-C3-MINI-1,https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Collated Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Cost Each,Cost Total
+1,2,"C1, C13",100μ,Device:C_Polarized_US,Capacitor_SMD:CP_Elec_10x10.5,~,0.654,1.308
+2,11,"C2, C3, C4, C5, C7, C8, C10, C16, C17, C18, C19",10n,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,0.006,0.066
+3,1,C6,1000μ,Device:C_Polarized_US,Capacitor_SMD:CP_Elec_10x10.5,~,0.767,0.767
+4,1,C9,10μ,Device:C_Polarized_US,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,0.025,0.025
+5,2,"C11, C15",0.1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,0.005,0.01
+6,2,"C12, C14",1μ,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,0.014,0.028
+7,3,"D1, D2, D11",D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,~,0.364,1.092
+8,4,"D3, D4, D5, D6",51V,Device:D_Zener,Diode_SMD:D_SOD-123,~,0.223,0.892
+9,4,"D7, D8, D9, D10",3.3V,Device:D_Zener,Diode_SMD:D_SOD-123,~,0.082,0.328
+10,1,J1,Conn_01x18_Male,Connector:Conn_01x18_Male,MX23A:MX23A18NF1,~,5,5
+11,1,J2,USB_C_Receptacle_USB2.0,Connector:USB_C_Receptacle_USB2.0,USBC:USB_TYPE_C_DS_5,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,0,0
+12,1,L1,100μ,Device:L,Inductor_SMD:L_12x12mm_H4.5mm,~,0.18,0.18
+13,3,"Q1, Q3, Q6",DNI,Transistor_FET_cont:BSS84AKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS84AKW.pdf,0.062,0.186
+14,4,"Q2, Q4, Q5, Q7",BSS138BKW,Transistor_FET_cont:BSS138BKW,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf,0.052,0.208
+15,6,"R1, R2, R10, R11, R12, R13",4.75K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,0.001,0.006
+16,11,"R3, R5, R8, R14, R15, R16, R17, R23, R24, R25, R26",DNI,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,0.002,0.022
+17,9,"R4, R6, R7, R9, R18, R19, R20, R21, R22",10K,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,0.002,0.018
+18,1,RV1,Varistor,Device:Varistor,Varistor:RV_Disc_D15.5mm_W3.9mm_P7.5mm,~,0.066,0.066
+19,1,U1,ATA6561-GAQW-N,Microchip:ATA6561-GAQW-N,Microchip:ATA6561-GAQW-N,,1.77,1.77
+20,1,U2,LM2576S-5,Regulator_Switching:LM2576S-5,Package_TO_SOT_SMD:TO-263-5_TabPin3,http://www.ti.com/lit/ds/symlink/lm2576.pdf,0.2,0.2
+21,1,U3,AMS1117-3.3,Regulator_Linear:AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,0.1,0.1
+22,1,U4,BD5230G-TR,TI:TPS3840DL18DBVR,TI:TPS3840DL18DBVR,,0.279,0.279
+23,1,U5,ESP32-C3-MINI-1,Espressif:ESP32-C3-MINI-1,Espressif:ESP32-C3-MINI-1,https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf,1.95,1.95
+24,1,,PCB,,,,2.551,2.551
+,45,,Epoxy Potting Compound,,,,0.08,3.6
+,,,,,,,,20.652

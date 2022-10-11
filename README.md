@@ -14,6 +14,7 @@ is not very good documentation on the various BCMs available in cars (compatibil
 A demo program will be added soon that has all of the aforementioned features hardcoded, but the eventual goal is to utilize the work from my other repositories 
 to create a configurable module that can be programmed through a web UI for various tasks.
 <br/><br/>
+A 3d model of the enclosure will be uploaded soon as well. The plan is to epoxy pot the pcb inside the enclosure to make it waterproof.
 ![image](https://user-images.githubusercontent.com/1595263/195181301-0c196c3c-3100-4f83-9f30-874a0b7afea7.png)
 ![image](https://user-images.githubusercontent.com/1595263/195181366-2fab4dbd-18c6-49c6-973a-4e5459182522.png)
 ![image](https://user-images.githubusercontent.com/1595263/195181392-971070fb-d9a4-4608-bcab-5475aad36f4f.png)

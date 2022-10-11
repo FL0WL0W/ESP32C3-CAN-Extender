@@ -12,7 +12,7 @@ is not very good documentation on the various BCMs available in cars (compatibil
 <a href="https://github.com/FL0WL0W/EFIGenie">EFIGenie</a> PCM once the software is more mature. This module will then be useful as a CAN extension module.
 <br/><br/>
 A demo program will be added soon that has all of the aforementioned features hardcoded, but the eventual goal is to utilize the work from my other repositories 
-to create a configurable module that can be programmed through a web UI for various tasks.
+to create a configurable module that can be programmed through a web UI for various tasks. Another potential feature would be to implement an emulation of the ubiquitous ELM327 bluetooth module that can be used to connect to a phone or tablet to read diagnostic codes, read sensors, or create a digital dash.
 <br/><br/>
 A 3d model of the enclosure will be uploaded soon as well. The plan is to epoxy pot the pcb inside the enclosure to make it waterproof.
 ![image](https://user-images.githubusercontent.com/1595263/195181301-0c196c3c-3100-4f83-9f30-874a0b7afea7.png)
